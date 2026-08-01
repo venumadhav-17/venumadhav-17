@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Venu Madhav
+# 👋 Hi, I'm RAVIPATI VENU MADHAV
 
 ### 🚀 Python Full Stack Developer | Data Analyst | AI/ML Enthusiast | Embedded Systems & IoT
 
