@@ -127,7 +127,7 @@ embedded programming, electronics and IoT.
 # 🌐 Connect With Me
 
 - 💼 LinkedIn: **www.linkedin.com/in/venu-madhav-ravipati-19780b363**
-- 🌐 Portfolio: **Add your Portfolio URL**
+- 🌐 Portfolio: **https://venumadhav-17.github.io/My-portfolio/**
 - 📧 Email: **venumadhav79899@gmail.com**
 
 ---
