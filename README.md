@@ -22,68 +22,98 @@ embedded programming, electronics and IoT.
 
 ---
 
-## 💻 Software Skills
+# 💻 Software Skills
 
-### 🐍 Programming
-- Python
-- C
-- Java (Basic)
+### 🐍 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,java" />
+</p>
 
 ### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript (Basic)
-- FastAPI
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,fastapi" />
+</p>
 
 ### 🗄️ Database
-- SQL
-- DBMS
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### 🤖 AI / Machine Learning
-- Deep Learning
-- CNN
-- Image Classification
-- OpenCV
-- NumPy
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/CNN-Deep%20Learning-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Image%20Classification-AI-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
 ### 🛠️ Development Tools
-- Git
-- GitHub
-- VS Code
-- MS Excel
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
 ---
 
-## 🔧 Hardware & Embedded Skills
+# 🔧 Hardware & Embedded Skills
 
 ### 💻 Embedded Programming
-- Embedded C
-- Arduino Programming
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino%20Programming-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
 
 ### 🔌 Boards & Microcontrollers
-- Arduino UNO
-- ESP32
-- Raspberry Pi
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Arduino%20UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
 
 ### 📡 Communication Protocols
-- UART
-- I2C
-- SPI
 
-### ⚡ Electronics
-- Sensor Interfacing
-- Circuit Design
-- Electronics
-- Embedded Systems
-- IoT
+<p align="left">
+<img src="https://img.shields.io/badge/UART-Communication-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/I2C-Communication-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SPI-Communication-orange?style=for-the-badge" />
+</p>
+
+### ⚡ Electronics & Embedded Systems
+
+<p align="left">
+<img src="https://img.shields.io/badge/Sensor%20Interfacing-Embedded%20Systems-6A1B9A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Circuit%20Design-Electronics-1565C0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IoT-FF9800?style=for-the-badge" />
+</p>
 
 ### 🛠️ Hardware Tools
-- Arduino IDE
-- VS Code
+
+<p align="left">
+<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ---
 
-## 🎯 Career Interests
+# 🎯 Career Interests
 
 - 🐍 Python Full Stack Development
 - 📊 Data Analyst
@@ -94,7 +124,7 @@ embedded programming, electronics and IoT.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 - 💼 LinkedIn: **Add your LinkedIn URL**
 - 🌐 Portfolio: **Add your Portfolio URL**
