@@ -58,7 +58,6 @@ Python Intern, Software Engineer, or Data Analyst**.
 <img src="https://skillicons.dev/icons?i=flask,fastapi" />
 </p>
 <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 ### 🗄️ Databases
 <p align="left">
