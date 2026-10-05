@@ -72,14 +72,6 @@ Python Intern, Software Engineer, or Data Analyst**.
 <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-### 🤖 AI / Machine Learning
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/CNN-Deep%20Learning-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Image%20Classification-AI-purple?style=for-the-badge" />
-
 ### 🛠️ Tools & Platforms
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
@@ -94,30 +86,6 @@ Python Intern, Software Engineer, or Data Analyst**.
 <img src="https://img.shields.io/badge/Time%20Management-6A1B9A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Teamwork-6A1B9A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Quick%20Learner-6A1B9A?style=for-the-badge" />
-
----
-
-# 🔧 Hardware & Embedded Skills (Side Interest)
-
-### 💻 Embedded Programming
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino%20Programming-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
-### 🔌 Boards & Microcontrollers
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
-<img src="https://img.shields.io/badge/Arduino%20UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-
-### 📡 Communication Protocols
-<img src="https://img.shields.io/badge/UART-Communication-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/I2C-Communication-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SPI-Communication-orange?style=for-the-badge" />
 
 ---
 
